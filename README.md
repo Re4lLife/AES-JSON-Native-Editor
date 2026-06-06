@@ -1,6 +1,6 @@
 <p align="center">
   <a href="https://postimg.cc/zVM6Dgxn">
-    <img src="https://i.postimg.cc/Qdx3bg5n/20260525-163912.jpg" alt="20260525-163912.jpg" width="70%">
+    <img src="https://i.postimg.cc/Qdx3bg5n/20260525-163912.jpg" alt="20260525-163912.jpg" width="80%">
   </a>
 </p>
 
